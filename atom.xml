@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yaqi-jin.github.io</id>
     <title>Yvonne27jin</title>
-    <updated>2022-04-05T16:54:13.123Z</updated>
+    <updated>2022-04-05T18:06:31.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yaqi-jin.github.io"/>
     <link rel="self" href="https://yaqi-jin.github.io/atom.xml"/>
@@ -10,6 +10,81 @@
     <logo>https://yaqi-jin.github.io/images/avatar.png</logo>
     <icon>https://yaqi-jin.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Yvonne27jin</rights>
+    <entry>
+        <title type="html"><![CDATA[平面建筑]]></title>
+        <id>https://yaqi-jin.github.io/post/architecture/</id>
+        <link href="https://yaqi-jin.github.io/post/architecture/">
+        </link>
+        <updated>2022-04-05T18:01:14.000Z</updated>
+        <content type="html"><![CDATA[<style>
+td, th {
+   border: none!important;
+}
+</style>
+<table frame=void>
+	<tr>
+    <td><center><img src="file:///Users/yvonnejin/Documents/Gridea/post-images/1649181702202.jpeg"
+                     height="300"/></center></td>
+    <td><center><img src="file:///Users/yvonnejin/Documents/Gridea/post-images/1649181726996.jpg"
+                     height="300"/></center></td>
+    </tr>
+    <tr>	<!--第二行-->
+    <td><center><img src="file:///Users/yvonnejin/Documents/Gridea/post-images/1649181814853.jpg"
+                     height="300"/></center></td>
+    <td><center><img src="file:///Users/yvonnejin/Documents/Gridea/post-images/1649181829938.jpg"
+                     height="300"/></center></td>
+    </tr>
+    <tr>	<!--第三行-->
+    <td><center><img src="file:///Users/yvonnejin/Documents/Gridea/post-images/1649181879904.JPG"
+                     height="300"/></center></td>
+    <td><center><img src="file:///Users/yvonnejin/Documents/Gridea/post-images/1649181906826.jpg"
+                     height="300"/></center></td>
+    </tr>    
+</table>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[岛屿天光]]></title>
+        <id>https://yaqi-jin.github.io/post/island-hk/</id>
+        <link href="https://yaqi-jin.github.io/post/island-hk/">
+        </link>
+        <updated>2022-04-05T17:58:19.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://yaqi-jin.github.io/post-images/1649181529170.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[市井生活]]></title>
+        <id>https://yaqi-jin.github.io/post/street-photo/</id>
+        <link href="https://yaqi-jin.github.io/post/street-photo/">
+        </link>
+        <updated>2022-04-05T17:25:40.000Z</updated>
+        <content type="html"><![CDATA[<style>
+td, th {
+   border: none!important;
+}
+</style>
+<table frame=void>
+	<tr>
+    <td><center><img src="file:///Users/yvonnejin/Documents/Gridea/post-images/1649181321486.jpg"
+                     height="300"/></center></td>
+    <td><center><img src="file:///Users/yvonnejin/Documents/Gridea/post-images/1649181345686.jpg"
+                     height="300"/></center></td>
+    </tr>
+    <tr>	<!--第二行-->
+    <td><center><img src="file:///Users/yvonnejin/Documents/Gridea/post-images/1649181430060.jpeg"
+                     height="300"/></center></td>
+    <td><center><img src="file:///Users/yvonnejin/Documents/Gridea/post-images/1649181457817.jpeg"
+                     height="300"/></center></td>
+    </tr>
+    <tr>	<!--第三行-->
+    <td><center><img src="file:///Users/yvonnejin/Documents/Gridea/post-images/1649180240348.JPG"
+                     height="300"/></center></td>
+    <td><center><img src="file:///Users/yvonnejin/Documents/Gridea/post-images/1649180341818.JPG"
+                     height="300"/></center></td>
+    </tr>    
+</table>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Imperfect perfection]]></title>
         <id>https://yaqi-jin.github.io/post/imperfect-perfection/</id>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yaqi-jin.github.io</id>
     <title>Yvonne27jin</title>
-    <updated>2022-04-06T08:05:21.834Z</updated>
+    <updated>2022-04-06T08:10:00.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yaqi-jin.github.io"/>
     <link rel="self" href="https://yaqi-jin.github.io/atom.xml"/>
@@ -33,6 +33,18 @@
 <figure data-type="image" tabindex="3"><img src="https://yaqi-jin.github.io/post-images/1649231844572.JPG" alt="" loading="lazy"></figure>
 <figure data-type="image" tabindex="4"><img src="https://yaqi-jin.github.io/post-images/1649231849708.JPG" alt="" loading="lazy"></figure>
 <figure data-type="image" tabindex="5"><img src="https://yaqi-jin.github.io/post-images/1649231910319.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天涯此时]]></title>
+        <id>https://yaqi-jin.github.io/post/friends/</id>
+        <link href="https://yaqi-jin.github.io/post/friends/">
+        </link>
+        <updated>2022-04-06T07:36:43.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://yaqi-jin.github.io/post-images/1649230627176.jpeg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://yaqi-jin.github.io/post-images/1649231609963.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://yaqi-jin.github.io/post-images/1649232533256.jpeg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="https://yaqi-jin.github.io/post-images/1649232539316.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>

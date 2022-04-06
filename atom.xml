@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yaqi-jin.github.io</id>
     <title>Yvonne27jin</title>
-    <updated>2022-04-06T07:30:41.866Z</updated>
+    <updated>2022-04-06T08:05:21.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yaqi-jin.github.io"/>
     <link rel="self" href="https://yaqi-jin.github.io/atom.xml"/>
@@ -10,6 +10,31 @@
     <logo>https://yaqi-jin.github.io/images/avatar.png</logo>
     <icon>https://yaqi-jin.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Yvonne27jin</rights>
+    <entry>
+        <title type="html"><![CDATA[香港街灯]]></title>
+        <id>https://yaqi-jin.github.io/post/HK-street/</id>
+        <link href="https://yaqi-jin.github.io/post/HK-street/">
+        </link>
+        <updated>2022-04-06T08:03:52.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://yaqi-jin.github.io/post-images/1649232125384.JPG" alt="" loading="lazy"><br>
+<img src="https://yaqi-jin.github.io/post-images/1649231277535.jpg" alt="" loading="lazy"><br>
+<img src="https://yaqi-jin.github.io/post-images/1649231282381.JPG" alt="" loading="lazy"><br>
+<img src="https://yaqi-jin.github.io/post-images/1649231286670.JPG" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[做工的人]]></title>
+        <id>https://yaqi-jin.github.io/post/common-worker/</id>
+        <link href="https://yaqi-jin.github.io/post/common-worker/">
+        </link>
+        <updated>2022-04-06T07:55:46.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://yaqi-jin.github.io/post-images/1649231759551.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://yaqi-jin.github.io/post-images/1649231839155.JPG" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://yaqi-jin.github.io/post-images/1649231844572.JPG" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="https://yaqi-jin.github.io/post-images/1649231849708.JPG" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="5"><img src="https://yaqi-jin.github.io/post-images/1649231910319.jpg" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[市井生活]]></title>
         <id>https://yaqi-jin.github.io/post/street-life/</id>
@@ -44,7 +69,9 @@
         <link href="https://yaqi-jin.github.io/post/island-hk/">
         </link>
         <updated>2022-04-05T17:58:19.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://yaqi-jin.github.io/post-images/1649181529170.jpg" alt="" loading="lazy"></figure>
+        <content type="html"><![CDATA[<p><img src="https://yaqi-jin.github.io/post-images/1649181529170.jpg" alt="" loading="lazy"><br>
+<img src="https://yaqi-jin.github.io/post-images/1649230926616.jpg" alt="" loading="lazy"><br>
+<img src="https://yaqi-jin.github.io/post-images/1649230943186.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
